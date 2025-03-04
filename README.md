@@ -1,6 +1,6 @@
 # multisite
 Library of Estimators of Treatment-effect Heterogeneity across sites in multi-site random experiments with few units per site.
-multisite wraps in four commands to estimate treatment-effect heterogeneity across sites in multi-site RCTs, and more generally in stratified RCTs.
+multisite wraps in four commands to estimate treatment-effect heterogeneity across sites in multi-site RCTs, and more generally in stratified RCTs, based on [de Chaisemartin, C, Deeb, A (2024)](https://ssrn.com/abstract=4615304).
 
 ## Setup
 ### Stata
