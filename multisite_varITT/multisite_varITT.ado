@@ -1,4 +1,4 @@
-capture program drop did_multiplegt_dyn
+capture program drop multisite_varITT
   
 program multisite_varITT , eclass
 version 14.2
