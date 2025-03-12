@@ -55,7 +55,7 @@ de Chaisemartin, C, Deeb, A (2024).  [Estimating treatment-effect heterogeneity 
 
 ## Authors
 
-Clément de Chaisemartin, Economics Department, Sciences Po, France. 
+Clément de Chaisemartin, Economics Department, Sciences Po, France.  
 Antoine Deeb, Development Impact Evaluation,  World Bank.
 
 **<ins>Contact:</ins>**  
