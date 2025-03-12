@@ -54,9 +54,8 @@ For **multisite_regLATE**:
 de Chaisemartin, C, Deeb, A (2024).  [Estimating treatment-effect heterogeneity across sites, in multi-site randomized experiments with few units per site.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615304).
 
 ## Authors
-Clément de Chaisemartin, Economics Department, Sciences Po, France.  
-Antoine Deeb, Development Impact Evaluation,  World Bank. 
-Bingxue Li, Economics Department, Sciences Po, France.
+Clément de Chaisemartin, Economics Department, Sciences Po, France.
+Antoine Deeb, Development Impact Evaluation,  World Bank.
 
 **<ins>Contact:</ins>**  
 [chaisemartin.packages@gmail.com](mailto:chaisemartin.packages@gmail.com)
